@@ -1,0 +1,5 @@
+which wg: /usr/bin/wg
+which wg-quick: /usr/bin/wg-quick
+
+sudo chmod u+s /usr/bin/wg-quick
+sudo chmod u+s /usr/bin/wg
